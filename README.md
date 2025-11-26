@@ -2,10 +2,10 @@
 <h3 align="center">🚀 Desenvolvedor(a) Full-Stack | Entusiasta de Open Source</h3>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/perfil-profissional-guiller]">
+  <a href="www.linkedin.com/in/perfil-profissional-guiller">
     <img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=flat&logo=react&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:[guiller.henrique.dev01@gmail.com]">
+  <a href="mailto:guiller.henrique.dev01@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="[Seu Twitter/Blog]">
