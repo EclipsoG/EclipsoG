@@ -1,11 +1,11 @@
-<h1 align="center">✨ Olá, eu sou [Seu Nome]! ✨</h1>
+<h1 align="center">✨ Olá, eu sou Guiller! ✨</h1>
 <h3 align="center">🚀 Desenvolvedor(a) Full-Stack | Entusiasta de Open Source</h3>
 
 <p align="center">
-  <a href="[Seu LinkedIn/Site]">
+  <a href="[www.linkedin.com/in/perfil-profissional-guiller]">
     <img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=flat&logo=react&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:[seu-email]">
+  <a href="mailto:[guiller.henrique.dev01@gmail.com]">
     <img src="https://img.shields.io/badge/-Email-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="[Seu Twitter/Blog]">
@@ -35,26 +35,6 @@
 | **[Projeto 1](link)** | Descrição breve do projeto. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
 | **[Projeto 2](link)** | Sistema de automação incrível. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws) | ![In Development](https://img.shields.io/badge/Status-Dev-yellow) |
 
----
-
-### 📊 **GitHub Stats**
-<!-- Dynamic Stats with GitHub Readme Stats (https://github.com/anuraghazra/github-readme-stats) -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME]&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<!-- GitHub Streak (https://github.com/DenverCoder1/github-readme-streak-stats) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=[SEU_USERNAME]&theme=dark&hide_border=true" />
-</p>
-
----
-
-### 📝 **Blog Recente** (opcional)
-<!-- Dynamic Blog Posts (usando RSS com GitHub Actions) -->
-⚡ [Título do Post](link) - *DD/MM/YYYY*  
-⚡ [Título do Post](link) - *DD/MM/YYYY*  
 
 ---
 
